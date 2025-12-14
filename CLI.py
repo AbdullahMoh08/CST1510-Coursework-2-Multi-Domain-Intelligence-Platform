@@ -91,7 +91,7 @@ def create_cyber_incident():
         """,
         (incident_id, timestamp, severity, category, status, description)
     )
-    print("✅ Incident created successfully.")
+    print("Incident created successfully.")
 
 
 def read_all_cyber_incidents():

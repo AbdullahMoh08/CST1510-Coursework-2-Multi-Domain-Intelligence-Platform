@@ -4,3 +4,11 @@ am4138,$2b$12$WtbZy.RgwLS7WiCSSIwAje.zemnP3W8oBx04HnKCKMA8bUkv/sfRC,admin
 JAY008,$2b$12$JuptyenuJNq12z2qQONVi.96fZFOLJFGzu1NWuTumM8KHoCJmMrDa,admin
 Justabdu,$2b$12$SHYc6wIeHxRfE3616dV56e3jhiAbp5fvSGuIsEpk42nNncZKlQYem,admin
 abdullah_1,$2b$12$z0/NmHkpHphGtzokqUAdgeeqq2wIS3g/5jMe.eu3cRKGzDw4Xj1gG,admin
+abdullah_test_1,$2b$12$OIF1cvULWP5ENbj7b1J/FO22fPirhZNqaij17mTtcxNE6FtZndaDi,admin
+abdullah_123,$2b$12$wMpbtFdtIwZLQgpqFq4hz.SmUJDy0BsRiZBFNyqG60iha4IwLhUuq,admin
+AM4138,$2b$12$nLiWYQS3uMkNnC.f6cbFie53TuIrAmZvq1bzc1l0ftg4fUQjqL34W,admin
+TestAdmin,$2b$12$9whtzDnRHKQ2iQCf.A2HBOjXVttvPRWD2NNUKj.O3HTZHTmv7.cQS,admin
+NEWTEST,$2b$12$5qxcm/j.XPlUQqfqu3pAnOxLxrnSwBHy8fVR/cACJk9FxQIYicElC,admin
+usertest,$2b$12$3Mf5fcZRez6sr20a1yk5FuxzKr2r4MR.S3nEnBNprQymHrYqio6eC,user
+TESTabdullah,$2b$12$6aPxjo1S54lE4JbuR.F9ROeUW5zWoXdk6klBeIkwHdXl2Zn8bqZxq,admin
+abdullahmoh,$2b$12$wqVrzV1Nb8k2vX0ps93TaunKBx4l/m22PeNgK4mgeB2dMrnV7tcXC,admin
